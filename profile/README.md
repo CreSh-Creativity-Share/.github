@@ -31,4 +31,7 @@ If you have already felt the spirit of Crowdminding yourself you can share your 
 ### Stay up to date
 We will keep you informed about all activities related to your posts, comments and followed before you posts and users. Thanks to our notifications you won't miss any important change.
 
-Remember to check our Release Notes, where we will inform you about new features in the application, and there will be plenty of them!
+Remember to check our [Release Notes](https://github.com/CreSh-Creativity-Share/.github/blob/main/profile/Release_Notes.md), where we will inform you about new features in the application, and there will be plenty of them!
+
+### User Manuall
+Detail User manuall can be found here: [User Manuall]()
