@@ -33,5 +33,5 @@ We will keep you informed about all activities related to your posts, comments a
 
 Remember to check our [Release Notes](https://github.com/CreSh-Creativity-Share/.github/blob/main/profile/Release_Notes.md), where we will inform you about new features in the application, and there will be plenty of them!
 
-### User Manuall
-Detail User manuall can be found here: [User Manuall]()
+### User Manual
+Detail User Manual can be found here: [User Manuall](https://github.com/CreSh-Creativity-Share/.github/blob/main/profile/user_manual.md)
