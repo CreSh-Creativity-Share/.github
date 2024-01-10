@@ -7,6 +7,8 @@ Arti Kondziela CEO of Cresh
 ## Where to start?
 Welcome to Cresh, an innovative platform created to share ideas, discuss niches and develop them using artificial intelligence-based tools. Cresh aims to build a community where members support each other, seeing the potential in sharing creativity.
 
+### https://cresh.me/app
+
 ### Join us
 You are probably wondering where to start your adventure with Cresh. We strongly encourage you to create an account, then we will be able to show you the full spectrum of functionality of our system. Cresh is free of charge.
 However, if you are not sure, you can seamlessly browse the content that Cresh provides without being able to interact.
