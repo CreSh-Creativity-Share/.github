@@ -33,11 +33,24 @@ to his or her profile.
 
 ### Detail Post View
 
-The detailed view has all the functionality of the [Short Post View](Short Post View). It does, however, include [AI analysis](AI Analysis) by friendly artificial intelligence and allows you to review all comments.
+The detailed view has all the functionality of the [Short Post View](#short-post-view). It does, however, include [AI analysis](#ai-analysis) by friendly artificial intelligence and allows you to review all comments.
 
 ### AI Analysis
 
-TODO
+We decided to support your creativity with artificial intelligence. Each idea is analyzed by AI, which uses IAP methodology to describe the project. We implemented metrics and asked ChatGPT to rate the idea on a scale of 1-5. You can find the results in the detailed view of the post. We have divided the 32 metrics into 5 categories that describe the idea in simple terms.
+
+| Metric shortcut  | Metric full name  |
+|---|---|
+| TVG  | Technical Viability Group  |
+| MVG  | Market Viability Group  |
+| PVG  | Product Viability Group  |
+| MSG  | Market Strategy Group  |
+| RFVG  | Risk and Financial Viability Group  |
+
+An idea's score is a percentage of the total points scored by the idea. To analyze the component metrics in detail, go to the detailed view by pressing the "See more" button. The components are the basic metrics calculated by ChatGPT, which, when grouped and averaged, give the value of the basic metrics.
+
+#### Not visible analysis.
+The analysis usually takes a few minutes to complete, which means it will not be immediately visible. We will send you a notification when it is generated.
 
 ### Search
 
