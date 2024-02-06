@@ -20,6 +20,9 @@ Wall view is the main view of the application. On it, you can find the latest an
  - For You - a personalized view of posts selected for you,
  - Followed - ideas followed by you, your stash of ideas.
 
+<img width="333" alt="image" src="https://github.com/CreSh-Creativity-Share/.github/assets/18706771/86beb1db-d347-454d-8df5-2802f0a0e626">
+
+
 #### Short Post View
 
 The displayed ideas include basic information and a brief description. If you want to see a detailed view that includes additional information, such as AI analysis press the title of the idea, or if it is displayed "See more".
@@ -31,9 +34,15 @@ You can also interact with the idea. The heart button gives the idea a like, whi
 If, on the other hand, you are interested in the author of the idea, you can press on his name or photo to go
 to his or her profile.
 
+<img width="310" alt="image" src="https://github.com/CreSh-Creativity-Share/.github/assets/18706771/d48c1402-9e1c-46e5-89a8-6b18dc5a6a2d">
+
+
 ### Detail Post View
 
 The detailed view has all the functionality of the [Short Post View](#short-post-view). It does, however, include [AI analysis](#ai-analysis) by friendly artificial intelligence and allows you to review all comments.
+
+<img width="321" alt="image" src="https://github.com/CreSh-Creativity-Share/.github/assets/18706771/655f5948-49de-465d-876f-ad755ff9e7f8">
+
 
 ### AI Analysis
 
@@ -47,10 +56,19 @@ We decided to support your creativity with artificial intelligence. Each idea is
 | MSG  | Market Strategy Group  |
 | RFVG  | Risk and Financial Viability Group  |
 
+<img width="294" alt="image" src="https://github.com/CreSh-Creativity-Share/.github/assets/18706771/d144f4ff-fae7-4e26-ba7a-1d9d43837707">
+
+
 An idea's score is a percentage of the total points scored by the idea. To analyze the component metrics in detail, go to the detailed view by pressing the "See more" button. The components are the basic metrics calculated by ChatGPT, which, when grouped and averaged, give the value of the basic metrics.
+
+<img width="338" alt="image" src="https://github.com/CreSh-Creativity-Share/.github/assets/18706771/d9099260-20b1-4b77-b0fb-aa87a2fddba0">
+
 
 #### Not visible analysis.
 The analysis usually takes a few minutes to complete, which means it will not be immediately visible. We will send you a notification when it is generated.
+
+<img width="476" alt="image" src="https://github.com/CreSh-Creativity-Share/.github/assets/18706771/dffe1ff9-83ef-40e5-8fdc-eb5620f3912e">
+
 
 ### Search
 
