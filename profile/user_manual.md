@@ -59,7 +59,7 @@ We decided to support your creativity with artificial intelligence. Each idea is
 <img width="294" alt="image" src="https://github.com/CreSh-Creativity-Share/.github/assets/18706771/d144f4ff-fae7-4e26-ba7a-1d9d43837707">
 
 
-An idea's score is a percentage of the total points scored by the idea. To analyze the component metrics in detail, go to the detailed view by pressing the "See more" button. The components are the basic metrics calculated by ChatGPT, which, when grouped and averaged, give the value of the basic metrics.
+An idea's score is a percentage of the total points scored by the idea. To analyze the component metrics in detail, go to the detailed view by pressing the "View Details" button. The components are the basic metrics calculated by ChatGPT, which, when grouped and averaged, give the value of the basic metrics.
 
 <img width="338" alt="image" src="https://github.com/CreSh-Creativity-Share/.github/assets/18706771/d9099260-20b1-4b77-b0fb-aa87a2fddba0">
 
