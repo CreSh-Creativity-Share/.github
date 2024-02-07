@@ -28,6 +28,9 @@ We can't wait to hear your opinion. If you find a topic that interests you or wh
 
 If you have already felt the spirit of Crowdminding yourself you can share your idea. The community and our friendly AIs will surely help you get the most out of it.
 
+### Use power of AI
+Harness the power of AI and take your creativity to the next level. Check out what Cresh offers with its [AI analytics](https://github.com/CreSh-Creativity-Share/.github/blob/main/profile/ai_analysis.md).
+
 ### Stay up to date
 We will keep you informed about all activities related to your posts, comments and followed before you posts and users. Thanks to our notifications you won't miss any important change.
 
