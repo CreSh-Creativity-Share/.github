@@ -46,29 +46,7 @@ The detailed view has all the functionality of the [Short Post View](#short-post
 
 ### AI Analysis
 
-We decided to support your creativity with artificial intelligence. Each idea is analyzed by AI, which uses IAP methodology to describe the project. We implemented metrics and asked ChatGPT to rate the idea on a scale of 1-5. You can find the results in the detailed view of the post. We have divided the 32 metrics into 5 categories that describe the idea in simple terms.
-
-| Metric shortcut  | Metric full name  |
-|---|---|
-| TVG  | Technical Viability Group  |
-| MVG  | Market Viability Group  |
-| PVG  | Product Viability Group  |
-| MSG  | Market Strategy Group  |
-| RFVG  | Risk and Financial Viability Group  |
-
-<img width="294" alt="image" src="https://github.com/CreSh-Creativity-Share/.github/assets/18706771/d144f4ff-fae7-4e26-ba7a-1d9d43837707">
-
-
-An idea's score is a percentage of the total points scored by the idea. To analyze the component metrics in detail, go to the detailed view by pressing the "View Details" button. The components are the basic metrics calculated by ChatGPT, which, when grouped and averaged, give the value of the basic metrics.
-
-<img width="338" alt="image" src="https://github.com/CreSh-Creativity-Share/.github/assets/18706771/d9099260-20b1-4b77-b0fb-aa87a2fddba0">
-
-
-#### Not visible analysis.
-The analysis usually takes a few minutes to complete, which means it will not be immediately visible. We will send you a notification when it is generated.
-
-<img width="476" alt="image" src="https://github.com/CreSh-Creativity-Share/.github/assets/18706771/dffe1ff9-83ef-40e5-8fdc-eb5620f3912e">
-
+[Read more about AI Analysis](https://github.com/CreSh-Creativity-Share/.github/blob/main/profile/ai_analysis.md)
 
 ### Search
 
