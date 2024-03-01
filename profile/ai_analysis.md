@@ -18,6 +18,12 @@ The idea is evaluated in 34 aspects on a scale of 1 to 5, where the values corre
  * (4) indicates a positive feature,
  * (5) indicates a very positive feature.
 
+## Meaning of percents
+
+The maximum average rating of an idea is 5. We decided to show the result of the analysis in percentage terms, as a percentage of the average rating of an idea divided by the maximum rating, which is 5.
+
+percent = Average rating / 5
+
 ## Quick View
 
 The rating is displayed for each idea on the wall and in its detail view as a percentage of the total. You can find it above the title.
