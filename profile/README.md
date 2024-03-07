@@ -38,3 +38,6 @@ Remember to check our [Release Notes](https://github.com/CreSh-Creativity-Share/
 
 ### User Manual
 Detail User Manual can be found here: [User Manual](https://github.com/CreSh-Creativity-Share/.github/blob/main/profile/user_manual.md)
+
+### FAQ
+Check out our [FAQ](https://github.com/CreSh-Creativity-Share/.github/blob/main/profile/FAQ.md) with frequently asked questions.
