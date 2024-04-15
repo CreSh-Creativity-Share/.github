@@ -2,6 +2,19 @@
 
 At Cresh, we believe in the power of humans and AI working together, so we have natively integrated our solution with the artificial brain. Each idea that is posted on Cresh is supported by an analysis of the potential for commercial success.
 
+## Meaning of rating
+
+We decided to present the results of our complex analysis in the form of a school evaluation. An idea can receive a grade from A to F. Please keep in mind that this is a subjective analysis generated using AI algorithms and may not be objective.
+
+Meaning of the grade:
+ * A - recomenden for development,
+ * B - may go forward, but need to collect more data,
+ * C - recommended to go forward, returns likely modest,
+ * D - doubtful, further development not recommended,
+ * F - strongly recommend to stop further development.
+
+Evaluation depends on the obtained values of the analysis metrics. You can find the exact list of obtained metrics below.
+
 ## Analysis generation
 
 There is no need to specially create an analysis. The moment you add an idea, the creation of the analysis is triggered. It usually does not take more than 5 minutes. Add an idea, make yourself a cup of coffee or tea and start enjoying the finished analysis.
