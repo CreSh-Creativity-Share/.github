@@ -110,3 +110,6 @@ You can find all metrics in below Table:
 | Payback period         |  RFVG     |
 | Profitability          |  RFVG     |
 
+## AI Badges
+
+Based on analysi, we decided to create badges, which help to quick see the profile of idea. You can read more about badges [here](https://github.com/CreSh-Creativity-Share/.github/blob/main/profile/ai_badges.md).
