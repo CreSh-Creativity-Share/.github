@@ -1,6 +1,28 @@
 # Release Notes
 
 ## Version 1.0
+Release date: 24-04-2024
+
+### New Features
+
+1. User interaction notifications
+2. Wizzard for idea creation
+3. Link to community channel on Discord
+4. Changed post view for better experience
+5. Post autosearch
+6. Login with Google account
+7. Feedback
+8. Landing page adjustment
+9. Added post share possibility for post
+10. Moved profile settings to separate settings page
+11. Daily posts limit
+12. SEO improvement
+
+### Resolved Bugs
+1. Overall performance improvement
+2. Fixed redirection to user profiles
+
+## Version 1.0
 Release date: 05-02-2024
 
 ### New Features
