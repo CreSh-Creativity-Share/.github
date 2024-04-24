@@ -1,6 +1,6 @@
 # Release Notes
 
-## Version 1.0
+## Version 1.1
 Release date: 24-04-2024
 
 ### New Features
