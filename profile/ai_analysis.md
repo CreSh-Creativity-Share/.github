@@ -7,6 +7,7 @@ At Cresh, we believe in the power of humans and AI working together, so we have 
 We decided to present the results of our complex analysis in the form of a school evaluation. An idea can receive a grade from A to F. Please keep in mind that this is a subjective analysis generated using AI algorithms and may not be objective.
 
 Meaning of the grade:
+ * S - top idea highly recommended to development,
  * A - recomenden for development,
  * B - may go forward, but need to collect more data,
  * C - recommended to go forward, returns likely modest,
