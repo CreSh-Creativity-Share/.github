@@ -1,5 +1,20 @@
 # Release Notes
 
+## Version 1.2
+Release date: 13-05-2024
+
+### New Features
+
+1. Email notifications
+2. Separate user settings menu
+3. Change percent rate of idea to "school" based with grades
+
+### Resolved Bugs
+1. Fix Discovery tab
+2. Fix shadow ban in search
+3. Block unsupported file type
+4. Fix delete post for user logged by google
+
 ## Version 1.1
 Release date: 24-04-2024
 
