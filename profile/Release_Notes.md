@@ -8,12 +8,16 @@ Release date: 13-05-2024
 1. Email notifications
 2. Separate user settings menu
 3. Change percent rate of idea to "school" based with grades
+4. New design for post
+5. Minimal one tag for post
+6. Minimal 1000 characters in post
 
 ### Resolved Bugs
 1. Fix Discovery tab
 2. Fix shadow ban in search
 3. Block unsupported file type
 4. Fix delete post for user logged by google
+5. Focus in comment on wall
 
 ## Version 1.1
 Release date: 24-04-2024
