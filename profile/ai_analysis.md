@@ -8,7 +8,7 @@ We decided to present the results of our complex analysis in the form of a schoo
 
 Meaning of the grade:
  * S - top idea highly recommended to development,
- * A - recomenden for development,
+ * A - recommended for development,
  * B - may go forward, but need to collect more data,
  * C - recommended to go forward, returns likely modest,
  * D - doubtful, further development not recommended,
