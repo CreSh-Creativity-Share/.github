@@ -4,6 +4,8 @@ At Cresh, we believe in the power of humans and AI working together, so we have 
 
 ## Meaning of rating
 
+:warning: **Only ideas with a minimum of 1000 characters will be analysed.**
+
 We decided to present the results of our complex analysis in the form of a school evaluation. An idea can receive a grade from A to F. Please keep in mind that this is a subjective analysis generated using AI algorithms and may not be objective.
 
 Meaning of the grade:
