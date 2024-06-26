@@ -1,7 +1,7 @@
 # AI analysis
 
 Check potential of your Idea today with Cresh in a minute.
-### https://cresh.me
+### [Cresh.me](https://cresh.me/?utm_source=github&utm_medium=instruction)
 
 ## Generate analys
 
